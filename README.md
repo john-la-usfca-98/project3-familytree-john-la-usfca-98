@@ -10,5 +10,5 @@ The order are:\
 The root person\
 &ensp;The child\
 &emsp;The child (or children) of the child\
-The spouse of the root person\
+The spouse of the root person
 
