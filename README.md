@@ -8,7 +8,7 @@ A3.java has the A3 class, which consists of the main function, which also serves
 This program will print out a family tree, which consists of the person, and anyone with relationship with them.\
 The order are:\
 The root person\
-&nbsp;The child\
-&ensp;The child (or children) of the child\
+&ensp;The child\
+&emsp;The child (or children) of the child\
 The spouse of the root person\
 
